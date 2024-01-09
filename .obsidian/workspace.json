@@ -18,8 +18,55 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c19ce55d3c7e74b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setup/Backup to GitHub/Setting up and syncing a new GitHub repository as an Obsidian vault.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "735483ec9bca7e5e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-09 15.21.17.excalidraw.light.svg"
+              }
+            }
+          },
+          {
+            "id": "4da3bdd78c75d140",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setup/Backup to iCloud/My current system for using iCloud and GitHub to backup my Obsidian vaults.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d90795966616a282",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setup/Backup to iCloud/My current system for using iCloud and GitHub to backup my Obsidian vaults.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Settings/Attachments.md",
+                "file": "Setup/Backup to iCloud/My current system for using iCloud and GitHub to backup my Obsidian vaults.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Settings/Attachments.md",
+                "file": "Setup/Backup to iCloud/My current system for using iCloud and GitHub to backup my Obsidian vaults.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Settings/Attachments.md"
+                "file": "Setup/Backup to iCloud/My current system for using iCloud and GitHub to backup my Obsidian vaults.md"
               }
             }
           },
@@ -155,24 +202,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b1a34b7dfb82973",
+  "active": "4da3bdd78c75d140",
   "lastOpenFiles": [
+    "Excalidraw/Vault stored in iCloud and GitHub.excalidraw.md",
+    "Excalidraw/Vault stored in iCloud and GitHub.excalidraw.light.svg",
+    "Excalidraw/Vault stored in iCloud and GitHub.excalidraw.dark.svg",
+    "Excalidraw/Drawing 2024-01-09 15.21.17.excalidraw.light.svg",
+    "Setup/Backup to iCloud/My current system for using iCloud and GitHub to backup my Obsidian vaults.md",
+    "Setup/Backup to iCloud/attachments/Screenshot 2024-01-09 at 15.32.07.png",
+    "Setup/Backup to iCloud/attachments",
+    "Excalidraw/Drawing 2024-01-09 15.21.17.excalidraw.dark.svg",
+    "Excalidraw/Drawing 2024-01-09 15.21.17.excalidraw.md",
+    "README.md",
+    "Setup/Backup to GitHub/Setting up and syncing a new GitHub repository as an Obsidian vault.md",
+    "Excalidraw",
+    "Setup/Backup to iCloud",
+    "Plugins/Plugins I like to use.md",
+    "Settings/Attachments.md",
+    "Plugins",
     "Settings/attachments/Pasted image 20240109150927.png",
     "Settings/attachments/Screenshot 2024-01-09 at 10.04.01.png",
     "Settings/attachments",
-    "Setup/Backup to GitHub/Setting up and syncing a new GitHub repository as an Obsidian vault.md",
-    "Settings/Attachments.md",
     "Settings",
-    "README.md",
     "Setup/Backup to GitHub/attachments/Screenshot 2024-01-09 at 09.53.18.png",
     "Setup/Backup to GitHub/attachments/Screenshot 2024-01-09 at 09.52.29.png",
     "Setup/Backup to GitHub/attachments/Screenshot 2024-01-09 at 09.51.42.png",
-    "Setup/Backup to GitHub/attachments/Screenshot 2024-01-09 at 09.49.44.png",
-    "Setup/Backup to GitHub/attachments/Screenshot 2024-01-09 at 09.46.51.png",
-    "Setup/Backup to GitHub/attachments/Screenshot 2024-01-09 at 09.44.05.png",
-    "Setup/Backup to GitHub/attachments/Screenshot 2024-01-09 at 09.43.11.png",
-    "Setup/Backup to GitHub/attachments/Screenshot 2024-01-09 at 09.42.00.png",
-    "Setup/Backup to GitHub/attachments/Screenshot 2024-01-09 at 09.37.49.png",
     "Setup/Backup to GitHub/attachments",
     "Setup/Backup to GitHub",
     "Setup"

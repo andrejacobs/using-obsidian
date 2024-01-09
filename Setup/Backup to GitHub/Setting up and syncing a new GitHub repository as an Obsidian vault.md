@@ -1,3 +1,4 @@
+#guide/sync-to-github
 ## Method 1 - my preferred method
 
 I prefer to first create and clone a new git repository (hosted by [GitHub](https://github.com/)) and then turn that directory (the repo) into an Obsidian vault.
