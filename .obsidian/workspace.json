@@ -27,12 +27,32 @@
               "state": {
                 "file": "Setup/Backup to GitHub/Setting up and syncing a new GitHub repository as an Obsidian vault.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
-            }
+            },
+            "group": "22e81ef0e4166b5d"
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "ad47b3001ef5f236",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e66e83b6a9a39f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setup/Backup to GitHub/Setting up and syncing a new GitHub repository as an Obsidian vault.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "22e81ef0e4166b5d"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,8 +189,20 @@
   },
   "active": "a095eaac62517923",
   "lastOpenFiles": [
+    "Setup/Backup to GitHub/attachments/Screenshot 2024-01-09 at 09.53.18.png",
+    "Setup/Backup to GitHub/attachments/Screenshot 2024-01-09 at 09.52.29.png",
+    "Setup/Backup to GitHub/attachments/Screenshot 2024-01-09 at 09.51.42.png",
+    "Setup/Backup to GitHub/attachments/Screenshot 2024-01-09 at 09.49.44.png",
+    "Setup/Backup to GitHub/attachments/Screenshot 2024-01-09 at 09.46.51.png",
+    "Setup/Backup to GitHub/attachments/Screenshot 2024-01-09 at 09.44.05.png",
+    "Setup/Backup to GitHub/attachments/Screenshot 2024-01-09 at 09.43.11.png",
+    "Setup/Backup to GitHub/attachments/Screenshot 2024-01-09 at 09.42.00.png",
+    "Setup/Backup to GitHub/attachments/Screenshot 2024-01-09 at 09.37.49.png",
+    "Setup/Backup to GitHub/attachments/Screenshot 2024-01-09 at 09.36.26.png",
+    "Setup/Backup to GitHub/attachments/Screenshot 2024-01-09 at 09.35.08.png",
     "README.md",
     "Setup/Backup to GitHub/Setting up and syncing a new GitHub repository as an Obsidian vault.md",
+    "Setup/Backup to GitHub/attachments",
     "Setup/Backup to GitHub",
     "Setup"
   ]
