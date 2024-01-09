@@ -33,6 +33,9 @@ I prefer to first create and clone a new git repository (hosted by [GitHub](http
 	```
 	$ cd ~/Documents
 	$ git clone https://TOKEN@github.com/USER-NAME/NEW-REPO.git
+	
+	# Or if you want a differently named directory
+	$ git clone REPO-URL "New Name Of Vault"
 	```
 	![[Screenshot 2024-01-09 at 09.35.08.png]]
 5. Open Obsidian and in the menu bar choose File | Open vault ...
