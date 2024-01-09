@@ -2,6 +2,8 @@
 
 I prefer to first create and clone a new git repository (hosted by [GitHub](https://github.com/)) and then turn that directory (the repo) into an Obsidian vault.
 
+**NOTE:** I am using this as an example of what I would recommend to people that are comfortable with git, GitHub and macOS. Personally I use SSH and signed commits (GPG) for all my git repos and not HTTPS (with our without personal access tokens) but that is out of scope for this guide.
+
 1. Create a [new GitHub repository](https://github.com/new)
 	   I like to add the initial README.md file since it means the repo will already have an initial commit as well as an `.md` file to use for Obsidian.
 	   ![[Screenshot 2024-01-09 at 12.10.26.png]]
