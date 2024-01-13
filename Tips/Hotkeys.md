@@ -1,6 +1,7 @@
 ---
 tags:
   - hotkeys
+  - "#tip"
 ---
 NOTE: I work on a Mac so all of my keys refer to Mac keyboard shortcuts etc.
 ## Commonly used Hotkeys

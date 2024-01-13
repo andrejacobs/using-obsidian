@@ -2,7 +2,8 @@
 tags:
   - settings/excalidraw
 ---
-* Save Excalidraw files in there own root folder. TODO: I would love these to be stored same as like "attachments" in the place where the note is created.
+* #tip The exported Excalidraw diagrams will be placed using the same [[Attachment settings]] when you embed a new diagram in a note. However if you use the "Create new drawing" button on the sidebar it will be placed in the main Excalidraw folder.
+* Save Excalidraw files in their own root folder. 
 
 ![[Screenshot 2024-01-13 at 11.15.19.png]]
 

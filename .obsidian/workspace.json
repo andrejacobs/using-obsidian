@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2b422a3151b9603e",
+        "id": "0138b611e0e3daa7",
         "type": "tabs",
         "children": [
           {
-            "id": "7e5844540830081d",
+            "id": "58168840a2c140bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setup/Daily Notes/Using Daily Notes.md",
+                "file": "Settings/Excalidraw settings.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setup/Daily Notes/Using Daily Notes.md",
+                "file": "Settings/Excalidraw settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setup/Daily Notes/Using Daily Notes.md",
+                "file": "Settings/Excalidraw settings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setup/Daily Notes/Using Daily Notes.md"
+                "file": "Settings/Excalidraw settings.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -173,13 +173,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e5844540830081d",
+  "active": "58168840a2c140bd",
   "lastOpenFiles": [
-    "Plugins/Plugins I like to use.md",
+    "Tips/Hotkeys.md",
+    "Settings/Excalidraw settings.md",
+    "Excalidraw/Drawing 2024-01-13 13.00.24.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-13 13.00.24.excalidraw.light.svg",
+    "Excalidraw/Drawing 2024-01-13 13.00.24.excalidraw.dark.svg",
+    "Temp/Test 123.md",
+    "Temp/attachments/Test 123 2024-01-13 12.59.25.excalidraw.md",
+    "Temp/attachments/Test 123 2024-01-13 12.59.25.excalidraw.light.svg",
+    "Temp/attachments/Test 123 2024-01-13 12.59.25.excalidraw.dark.svg",
+    "Temp/attachments",
+    "Temp",
+    "Templates/Daily Notes/Daily Note Template.md",
     "Settings/Templater settings.md",
+    "Plugins/Plugins I like to use.md",
     "Setup/Daily Notes/Using Daily Notes.md",
     "Settings/attachments/Screenshot 2024-01-13 at 12.14.11.png",
-    "Templates/Daily Notes/Daily Note Template.md",
     "Setup/Daily Notes/attachments/Screenshot 2024-01-13 at 12.14.39.png",
     "Setup/Daily Notes/attachments/Screenshot 2024-01-13 at 12.18.36.png",
     "Daily Notes/2024/01-January/2024-01-13.md",
@@ -188,25 +199,17 @@
     "Templates/Daily Notes",
     "Templates",
     "Daily Notes",
-    "Tips/Hotkeys.md",
     "Tips/Untitled",
     "Tips",
     "Setup/Daily Notes/attachments/Screenshot 2024-01-09 at 16.19.12.png",
     "Setup/Daily Notes/attachments/Screenshot 2024-01-09 at 16.18.58.png",
     "Setup/Daily Notes/attachments/Screenshot 2024-01-09 at 16.18.37.png",
-    "Setup/Daily Notes/attachments/Screenshot 2024-01-09 at 16.12.09.png",
     "Setup/Daily Notes/attachments",
     "README.md",
-    "Setup/Daily Notes",
-    "Settings/Excalidraw settings.md",
     "Excalidraw/Vault stored in iCloud and GitHub.excalidraw.md",
-    "Settings/attachments/Screenshot 2024-01-13 at 11.31.32.png",
-    "Excalidraw/Vault stored in iCloud and GitHub.excalidraw.dark.svg",
-    "Excalidraw/Vault stored in iCloud and GitHub.excalidraw.light.svg",
     "Settings/Attachment settings.md",
     "Setup/Backup to iCloud/My current system for using iCloud and GitHub to backup my Obsidian vaults.md",
     "Setup/Backup to GitHub/Setting up and syncing a new GitHub repository as an Obsidian vault.md",
-    "Setup/Backup to iCloud/attachments",
     "Excalidraw/Drawing 2024-01-09 15.21.17.excalidraw.md"
   ]
 }
