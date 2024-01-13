@@ -11,6 +11,6 @@ tags:
 | [Dataview](obsidian://show-plugin?id=dataview) | [git](https://github.com/blacksmithgu/obsidian-dataview) | "Database" view support over your notes |  |  |  |
 | [Kanban](obsidian://show-plugin?id=obsidian-kanban) | [git](https://github.com/mgmeyers/obsidian-kanban) | Kanban board |  |  |  |
 | [Calendar](obsidian://show-plugin?id=calendar) | [git](https://github.com/liamcain/obsidian-calendar-plugin) | Calendar view of the daily notes |  |  |  |
-| [Templater](obsidian://show-plugin?id=templater-obsidian) | [git](https://github.com/SilentVoid13/Templater) | Templating support (auto fill in) |  |  |  |
+| [Templater](obsidian://show-plugin?id=templater-obsidian) | [git](https://github.com/SilentVoid13/Templater) | Templating support (auto fill in) | [[Templater settings]] |  |  |
 
 

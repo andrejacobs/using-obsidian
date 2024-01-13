@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "dbbe2c966610038e",
+        "id": "2b422a3151b9603e",
         "type": "tabs",
         "children": [
           {
-            "id": "37c229472fea879b",
+            "id": "7e5844540830081d",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/daily-notes.json",
-                "staged": false
+                "file": "Setup/Daily Notes/Using Daily Notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Setup/Daily Notes/Using Daily Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Setup/Daily Notes/Using Daily Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Setup/Daily Notes/Using Daily Notes.md"
+              }
             }
           },
           {
@@ -149,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -168,9 +173,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37c229472fea879b",
+  "active": "7e5844540830081d",
   "lastOpenFiles": [
+    "Plugins/Plugins I like to use.md",
+    "Settings/Templater settings.md",
     "Setup/Daily Notes/Using Daily Notes.md",
+    "Settings/attachments/Screenshot 2024-01-13 at 12.14.11.png",
+    "Templates/Daily Notes/Daily Note Template.md",
+    "Setup/Daily Notes/attachments/Screenshot 2024-01-13 at 12.14.39.png",
+    "Setup/Daily Notes/attachments/Screenshot 2024-01-13 at 12.18.36.png",
+    "Daily Notes/2024/01-January/2024-01-13.md",
+    "Daily Notes/2024/01-January",
+    "Daily Notes/2024",
+    "Templates/Daily Notes",
+    "Templates",
+    "Daily Notes",
     "Tips/Hotkeys.md",
     "Tips/Untitled",
     "Tips",
@@ -186,19 +203,10 @@
     "Settings/attachments/Screenshot 2024-01-13 at 11.31.32.png",
     "Excalidraw/Vault stored in iCloud and GitHub.excalidraw.dark.svg",
     "Excalidraw/Vault stored in iCloud and GitHub.excalidraw.light.svg",
-    "Settings/attachments/Screenshot 2024-01-13 at 11.18.37.png",
-    "Settings/attachments/Screenshot 2024-01-13 at 11.17.46.png",
-    "Settings/attachments/Screenshot 2024-01-13 at 11.16.44.png",
     "Settings/Attachment settings.md",
-    "Plugins/Plugins I like to use.md",
     "Setup/Backup to iCloud/My current system for using iCloud and GitHub to backup my Obsidian vaults.md",
     "Setup/Backup to GitHub/Setting up and syncing a new GitHub repository as an Obsidian vault.md",
     "Setup/Backup to iCloud/attachments",
-    "Excalidraw/Drawing 2024-01-09 15.21.17.excalidraw.md",
-    "Excalidraw",
-    "Setup/Backup to iCloud",
-    "Plugins",
-    "Settings/attachments",
-    "Settings"
+    "Excalidraw/Drawing 2024-01-09 15.21.17.excalidraw.md"
   ]
 }
