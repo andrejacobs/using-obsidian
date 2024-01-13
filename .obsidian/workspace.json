@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0138b611e0e3daa7",
+        "id": "d714b37541d3ade3",
         "type": "tabs",
         "children": [
           {
-            "id": "58168840a2c140bd",
+            "id": "b1be11ac47ac1598",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Settings/Excalidraw settings.md",
-                "mode": "source",
-                "source": false
+                "file": "Temp/Test Kanban.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Settings/Excalidraw settings.md",
+                "file": "Temp/Test Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Settings/Excalidraw settings.md",
+                "file": "Temp/Test Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Settings/Excalidraw settings.md"
+                "file": "Temp/Test Kanban.md"
               }
             }
           },
@@ -173,14 +171,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58168840a2c140bd",
+  "active": "b1be11ac47ac1598",
   "lastOpenFiles": [
-    "Tips/Hotkeys.md",
+    "Temp/Test Kanban.md",
+    "Temp/This is the way.md",
+    "Temp/Task 2.md",
+    "Temp/Test canvas.canvas",
+    "Temp/Test 123.md",
     "Settings/Excalidraw settings.md",
+    "Tips/Hotkeys.md",
     "Excalidraw/Drawing 2024-01-13 13.00.24.excalidraw.md",
     "Excalidraw/Drawing 2024-01-13 13.00.24.excalidraw.light.svg",
     "Excalidraw/Drawing 2024-01-13 13.00.24.excalidraw.dark.svg",
-    "Temp/Test 123.md",
     "Temp/attachments/Test 123 2024-01-13 12.59.25.excalidraw.md",
     "Temp/attachments/Test 123 2024-01-13 12.59.25.excalidraw.light.svg",
     "Temp/attachments/Test 123 2024-01-13 12.59.25.excalidraw.dark.svg",
