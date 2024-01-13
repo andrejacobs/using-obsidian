@@ -1,4 +1,7 @@
-#settings/attachments
+---
+tags:
+  - "#settings/attachments"
+---
 
 I like to keep related attachments (like images) for a note to be organised in a subfolder named `attachments` in the same folder as the note.
 

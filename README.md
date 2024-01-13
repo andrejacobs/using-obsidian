@@ -9,7 +9,7 @@ This [Obsidian](https://obsidian.md) vault and git repo contains notes about how
 [[My current system for using iCloud and GitHub to backup my Obsidian vaults]]
 ## Settings
 
-[[Attachments]]
+[[Attachment settings]]
 
 ## Plugins
 
