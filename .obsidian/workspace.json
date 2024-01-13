@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cbbd1d07ce6b428f",
+        "id": "dbbe2c966610038e",
         "type": "tabs",
         "children": [
           {
-            "id": "0d4caebe8b10717f",
+            "id": "37c229472fea879b",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/app.json",
+                "file": ".obsidian/daily-notes.json",
                 "staged": false
               }
             }
@@ -168,8 +168,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d4caebe8b10717f",
+  "active": "37c229472fea879b",
   "lastOpenFiles": [
+    "Setup/Daily Notes/Using Daily Notes.md",
+    "Tips/Hotkeys.md",
+    "Tips/Untitled",
+    "Tips",
+    "Setup/Daily Notes/attachments/Screenshot 2024-01-09 at 16.19.12.png",
+    "Setup/Daily Notes/attachments/Screenshot 2024-01-09 at 16.18.58.png",
+    "Setup/Daily Notes/attachments/Screenshot 2024-01-09 at 16.18.37.png",
+    "Setup/Daily Notes/attachments/Screenshot 2024-01-09 at 16.12.09.png",
+    "Setup/Daily Notes/attachments",
+    "README.md",
+    "Setup/Daily Notes",
     "Settings/Excalidraw settings.md",
     "Excalidraw/Vault stored in iCloud and GitHub.excalidraw.md",
     "Settings/attachments/Screenshot 2024-01-13 at 11.31.32.png",
@@ -178,24 +189,16 @@
     "Settings/attachments/Screenshot 2024-01-13 at 11.18.37.png",
     "Settings/attachments/Screenshot 2024-01-13 at 11.17.46.png",
     "Settings/attachments/Screenshot 2024-01-13 at 11.16.44.png",
-    "Settings/attachments/Screenshot 2024-01-13 at 11.15.19.png",
     "Settings/Attachment settings.md",
-    "Settings/attachments/Screenshot 2024-01-09 at 10.04.01.png",
     "Plugins/Plugins I like to use.md",
-    "Setup/Backup to iCloud/attachments/Screenshot 2024-01-09 at 15.32.07.png",
     "Setup/Backup to iCloud/My current system for using iCloud and GitHub to backup my Obsidian vaults.md",
     "Setup/Backup to GitHub/Setting up and syncing a new GitHub repository as an Obsidian vault.md",
-    "README.md",
-    "Excalidraw/Drawing 2024-01-09 15.21.17.excalidraw.light.svg",
     "Setup/Backup to iCloud/attachments",
     "Excalidraw/Drawing 2024-01-09 15.21.17.excalidraw.md",
     "Excalidraw",
     "Setup/Backup to iCloud",
     "Plugins",
     "Settings/attachments",
-    "Settings",
-    "Setup/Backup to GitHub/attachments",
-    "Setup/Backup to GitHub",
-    "Setup"
+    "Settings"
   ]
 }
