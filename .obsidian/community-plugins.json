@@ -1,4 +1,9 @@
 [
   "obsidian-git",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "table-editor-obsidian",
+  "dataview",
+  "calendar",
+  "obsidian-kanban",
+  "templater-obsidian"
 ]

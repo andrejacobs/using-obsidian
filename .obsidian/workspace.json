@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Plugins/Plugins I like to use.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Plugins/Plugins I like to use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Plugins/Plugins I like to use.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Plugins/Plugins I like to use.md"
               }
             }
           },
@@ -134,6 +134,22 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f7938481e080fb81",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d5d5e32418974aa3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
@@ -146,6 +162,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -155,10 +173,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10421d8b0d486398",
+  "active": "63d9a7e7d40c3a7b",
   "lastOpenFiles": [
-    "Setup/Backup to GitHub/Setting up and syncing a new GitHub repository as an Obsidian vault.md",
     "README.md",
+    "Setup/Backup to GitHub/Setting up and syncing a new GitHub repository as an Obsidian vault.md",
     "Settings/Attachments.md",
     "Setup/Backup to iCloud/My current system for using iCloud and GitHub to backup my Obsidian vaults.md",
     "Excalidraw/Drawing 2024-01-09 15.21.17.excalidraw.light.svg",
