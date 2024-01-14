@@ -8,7 +8,7 @@ tags:
 | Plugin                                                             | Usage                               | Settings                | Guides                                                                  | Notes |
 | ------------------------------------------------------------------ | ----------------------------------- | ----------------------- | ----------------------------------------------------------------------- | ----- |
 | Daily notes             | Journal daily log entires |                         | [[Using Daily Notes]] |       |
-|  |                        |  |                                                                         |       |
+| Workspaces | Save and Load window layouts and loaded notes                       |  |                                                                         |       |
 ## Community Plugins
 | Plugin | Repo | Usage | Settings | Guides | Notes |
 | ---- | ---- | ---- | ---- | ---- | ---- |

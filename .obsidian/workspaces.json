@@ -1,0 +1,423 @@
+{
+  "workspaces": {
+    "Workspace 1": {
+      "main": {
+        "id": "9868e9d6e1e09eef",
+        "type": "split",
+        "children": [
+          {
+            "id": "dda652252980c636",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5a5f5cf89868beb3",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "Temp/Kanban/Test Kanban.md"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "bc306ef0a08ef233",
+            "type": "split",
+            "children": [
+              {
+                "id": "855bed5ca3382f3b",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "a248a066c117cc34",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Temp/Today view test.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "bc88f5c85c98fc25",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "3c18a4728e70fff8",
+                    "type": "leaf",
+                    "state": {
+                      "type": "canvas",
+                      "state": {
+                        "file": "Temp/Test canvas.canvas",
+                        "viewState": {
+                          "x": 160,
+                          "y": 20,
+                          "zoom": -0.6430126141514566
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9820ea5cd8397a3f",
+        "type": "split",
+        "children": [
+          {
+            "id": "0572f867d687cac5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4b54c27a1b71ee82",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "2ff8e2c6ce5b6acb",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "fb6f936bb7628832",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "16ffc674c3e16c11",
+        "type": "split",
+        "children": [
+          {
+            "id": "cf539efbb7534ab3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "906fd886d006da4f",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Temp/Test canvas.canvas",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "71625fa090c16ffc",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Temp/Test canvas.canvas",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "3e66d5464656e2e2",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "1e4a516a183f2d41",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Temp/Test canvas.canvas"
+                  }
+                }
+              },
+              {
+                "id": "63d9a7e7d40c3a7b",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f7938481e080fb81",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d5d5e32418974aa3",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "de481ac39f784f87",
+                "type": "leaf",
+                "state": {
+                  "type": "reminder-list",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 6
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "templater-obsidian:Templater": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "periodic-notes:Open this week": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "d5d5e32418974aa3"
+    },
+    "Workspace 2": {
+      "main": {
+        "id": "9868e9d6e1e09eef",
+        "type": "split",
+        "children": [
+          {
+            "id": "232307c2c452ebf7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "752cae3d61865200",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Temp/Kanban/This is the way.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9820ea5cd8397a3f",
+        "type": "split",
+        "children": [
+          {
+            "id": "0572f867d687cac5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4b54c27a1b71ee82",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "2ff8e2c6ce5b6acb",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "fb6f936bb7628832",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "16ffc674c3e16c11",
+        "type": "split",
+        "children": [
+          {
+            "id": "cf539efbb7534ab3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "906fd886d006da4f",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Temp/Kanban/This is the way.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "71625fa090c16ffc",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Temp/Kanban/This is the way.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "3e66d5464656e2e2",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "1e4a516a183f2d41",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Temp/Kanban/This is the way.md"
+                  }
+                }
+              },
+              {
+                "id": "63d9a7e7d40c3a7b",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f7938481e080fb81",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d5d5e32418974aa3",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "de481ac39f784f87",
+                "type": "leaf",
+                "state": {
+                  "type": "reminder-list",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 6
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "templater-obsidian:Templater": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "periodic-notes:Open this week": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "752cae3d61865200"
+    }
+  },
+  "active": "Workspace 2"
+}

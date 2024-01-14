@@ -3,7 +3,6 @@ tags:
   - plugins
 ---
 
-
 [Outliner](obsidian://show-plugin?id=obsidian-outliner) Make list editing easier (Not the core plugin called Outline)
 
 [Style Settings](obsidian://show-plugin?id=obsidian-style-settings) This is a dependency for other themes etc.
@@ -13,6 +12,8 @@ tags:
 [Pandoc](obsidian://show-plugin?id=obsidian-pandoc)Just what it says. Allows you to export to various formats using Pandoc.
 
 ## Done
+
+Core: Workspaces
 
 [Tasks](obsidian://show-plugin?id=obsidian-tasks-plugin)Tasks, just like it says on the tin.
 

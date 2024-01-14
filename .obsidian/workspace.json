@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dda652252980c636",
+        "id": "232307c2c452ebf7",
         "type": "tabs",
         "children": [
           {
-            "id": "5a5f5cf89868beb3",
+            "id": "752cae3d61865200",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -179,12 +179,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "periodic-notes:Open this week": false
+      "periodic-notes:Open this week": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5a5f5cf89868beb3",
+  "active": "752cae3d61865200",
   "lastOpenFiles": [
     "Plugins/Plugins I like to use.md",
+    "Temp/Kanban/This is the way.md",
+    "Temp/Kanban/Test Kanban.md",
+    "Temp/Test 123.md",
+    "Temp/Test canvas.canvas",
+    "Temp/Today view test.md",
     "Plugins/Plugins to try.md",
     "Setup/Daily Notes/Using Daily Notes.md",
     "Temp/Periodic/2024/01-January.md",
@@ -192,12 +198,7 @@
     "Templates/Daily Notes/Monthly Note template.md",
     "Templates/Daily Notes/Weekly Note Template.md",
     "Temp/Reminder plugin test.md",
-    "Temp/Test 123.md",
-    "Temp/Today view test.md",
-    "Temp/Kanban/Test Kanban.md",
-    "Temp/Kanban/This is the way.md",
     "Temp/Tasks plugin test.md",
-    "Temp/Test canvas.canvas",
     "Temp/Kanban/Task 2.md",
     "Temp/Kanban",
     "Temp/README.md",
@@ -229,7 +230,6 @@
     "Setup/Daily Notes/attachments/Screenshot 2024-01-09 at 16.19.12.png",
     "Setup/Daily Notes/attachments/Screenshot 2024-01-09 at 16.18.58.png",
     "Setup/Daily Notes/attachments/Screenshot 2024-01-09 at 16.18.37.png",
-    "Excalidraw/Vault stored in iCloud and GitHub.excalidraw.md",
-    "Settings/Attachment settings.md"
+    "Excalidraw/Vault stored in iCloud and GitHub.excalidraw.md"
   ]
 }
