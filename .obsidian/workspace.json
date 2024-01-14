@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plugins/Plugins to try.md",
+                "file": "Settings/Periodic Notes settings.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plugins/Plugins to try.md",
+                "file": "Settings/Periodic Notes settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plugins/Plugins to try.md",
+                "file": "Settings/Periodic Notes settings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plugins/Plugins to try.md"
+                "file": "Settings/Periodic Notes settings.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -187,7 +187,17 @@
   },
   "active": "752cae3d61865200",
   "lastOpenFiles": [
+    "Setup/Daily Notes/Using Daily Notes.md",
+    "Settings/Periodic Notes settings.md",
+    "Settings/attachments/Screenshot 2024-01-14 at 18.19.30.png",
+    "Settings/attachments/Screenshot 2024-01-14 at 18.07.14.png",
     "Plugins/Plugins I like to use.md",
+    "Settings/Calendar settings.md",
+    "Setup/Basic setup of a new Vault/How I like to setup a new Obsidian vault.md",
+    "Setup/Basic setup of a new Vault",
+    "Settings/Excalidraw settings.md",
+    "Settings/Templater settings.md",
+    "Settings/Attachment settings.md",
     "Plugins/Plugins to try.md",
     "Temp/Periodic/2024/01-January.md",
     "Temp/Periodic/2024/01-January/W-02.md",
@@ -196,7 +206,6 @@
     "Temp/Test 123.md",
     "Temp/Test canvas.canvas",
     "Temp/Today view test.md",
-    "Setup/Daily Notes/Using Daily Notes.md",
     "Templates/Daily Notes/Monthly Note template.md",
     "Templates/Daily Notes/Weekly Note Template.md",
     "Temp/Reminder plugin test.md",
@@ -209,29 +218,20 @@
     "Temp/Periodic/2024",
     "Temp/Periodic",
     "2024-W02.md",
-    "Settings/Excalidraw settings.md",
     "Tips/Hotkeys.md",
     "Excalidraw/Drawing 2024-01-13 13.00.24.excalidraw.md",
     "Excalidraw/Drawing 2024-01-13 13.00.24.excalidraw.light.svg",
     "Excalidraw/Drawing 2024-01-13 13.00.24.excalidraw.dark.svg",
-    "Temp/attachments/Test 123 2024-01-13 12.59.25.excalidraw.md",
     "Temp/attachments/Test 123 2024-01-13 12.59.25.excalidraw.light.svg",
     "Temp/attachments/Test 123 2024-01-13 12.59.25.excalidraw.dark.svg",
     "Temp/attachments",
     "Temp",
-    "Templates/Daily Notes/Daily Note Template.md",
-    "Settings/Templater settings.md",
     "Settings/attachments/Screenshot 2024-01-13 at 12.14.11.png",
     "Setup/Daily Notes/attachments/Screenshot 2024-01-13 at 12.14.39.png",
     "Setup/Daily Notes/attachments/Screenshot 2024-01-13 at 12.18.36.png",
-    "Daily Notes/2024/01-January/2024-01-13.md",
     "Daily Notes/2024/01-January",
     "Daily Notes/2024",
     "Templates/Daily Notes",
-    "Templates",
-    "Setup/Daily Notes/attachments/Screenshot 2024-01-09 at 16.19.12.png",
-    "Setup/Daily Notes/attachments/Screenshot 2024-01-09 at 16.18.58.png",
-    "Setup/Daily Notes/attachments/Screenshot 2024-01-09 at 16.18.37.png",
-    "Excalidraw/Vault stored in iCloud and GitHub.excalidraw.md"
+    "Setup/Daily Notes/attachments/Screenshot 2024-01-09 at 16.19.12.png"
   ]
 }

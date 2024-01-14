@@ -1,14 +1,6 @@
 {
   "scanned": true,
-  "reminders": {
-    "Temp/Reminder plugin test.md": [
-      {
-        "title": "Reminder test 1 about this thing",
-        "time": "2024-01-14 18:01",
-        "rowNumber": 3
-      }
-    ]
-  },
+  "reminders": {},
   "debug": false,
   "settings": {
     "reminderTime": "09:00",
