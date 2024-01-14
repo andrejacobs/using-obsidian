@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"e4a0978704c45793","x":-520,"y":-260,"width":250,"height":160,"type":"text","text":"Testing idea 1"},
-		{"id":"957a9a03c0e4801e","x":-120,"y":-100,"width":400,"height":400,"type":"file","file":"Settings/Excalidraw settings.md"},
-		{"id":"edd7643280d8011d","x":440,"y":-7,"width":400,"height":307,"type":"file","file":"Settings/attachments/Screenshot 2024-01-13 at 12.14.11.png"}
+		{"id":"e4a0978704c45793","type":"text","text":"Testing idea 1","x":-520,"y":-260,"width":250,"height":160},
+		{"id":"957a9a03c0e4801e","type":"file","file":"Settings/Excalidraw settings.md","x":-120,"y":-100,"width":400,"height":400},
+		{"id":"edd7643280d8011d","type":"file","file":"Settings/attachments/Screenshot 2024-01-13 at 12.14.11.png","x":440,"y":-7,"width":400,"height":307}
 	],
 	"edges":[
 		{"id":"cddad7156ff3f347","fromNode":"e4a0978704c45793","fromSide":"right","toNode":"957a9a03c0e4801e","toSide":"left"},

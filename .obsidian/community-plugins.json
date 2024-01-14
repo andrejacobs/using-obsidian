@@ -5,5 +5,8 @@
   "dataview",
   "calendar",
   "obsidian-kanban",
-  "templater-obsidian"
+  "templater-obsidian",
+  "periodic-notes",
+  "obsidian-tasks-plugin",
+  "obsidian-reminder-plugin"
 ]
