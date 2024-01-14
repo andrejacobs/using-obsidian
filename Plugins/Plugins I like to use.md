@@ -22,5 +22,6 @@ tags:
 | [Periodic Notes](obsidian://show-plugin?id=periodic-notes) | [git](https://github.com/liamcain/obsidian-periodic-notes) | Create Weekly and Monthly notes |  |  |  |
 | [Kanban](obsidian://show-plugin?id=obsidian-kanban) | [git](https://github.com/mgmeyers/obsidian-kanban) | Kanban board |  |  |  |
 | [Reminder](obsidian://show-plugin?id=obsidian-reminder-plugin) | [git](https://github.com/uphy/obsidian-reminder) | Works well with Tasks to setup reminders |  |  | Dialogue popups while vault is open. |
+| [Commander](obsidian://show-plugin?id=cmdr) | [git](https://github.com/phibr0/obsidian-commander) | Easily add buttons everywhere |  |  |  |
 
 

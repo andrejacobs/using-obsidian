@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -179,22 +179,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
       "periodic-notes:Open this week": false,
-      "workspaces:Manage workspace layouts": false
+      "cmdr:Periodic Notes: Open weekly note": false,
+      "cmdr:Periodic Notes: Open monthly note": false
     }
   },
   "active": "752cae3d61865200",
   "lastOpenFiles": [
     "Plugins/Plugins I like to use.md",
+    "Plugins/Plugins to try.md",
+    "Temp/Periodic/2024/01-January.md",
+    "Temp/Periodic/2024/01-January/W-02.md",
     "Temp/Kanban/This is the way.md",
     "Temp/Kanban/Test Kanban.md",
     "Temp/Test 123.md",
     "Temp/Test canvas.canvas",
     "Temp/Today view test.md",
-    "Plugins/Plugins to try.md",
     "Setup/Daily Notes/Using Daily Notes.md",
-    "Temp/Periodic/2024/01-January.md",
-    "Temp/Periodic/2024/01-January/W-02.md",
     "Templates/Daily Notes/Monthly Note template.md",
     "Templates/Daily Notes/Weekly Note Template.md",
     "Temp/Reminder plugin test.md",
