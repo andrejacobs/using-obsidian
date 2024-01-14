@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Settings/Periodic Notes settings.md",
+                "file": "Setup/Daily Notes/Using Daily Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Settings/Periodic Notes settings.md",
+                "file": "Setup/Daily Notes/Using Daily Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Settings/Periodic Notes settings.md",
+                "file": "Setup/Daily Notes/Using Daily Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Settings/Periodic Notes settings.md"
+                "file": "Setup/Daily Notes/Using Daily Notes.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -187,8 +187,11 @@
   },
   "active": "752cae3d61865200",
   "lastOpenFiles": [
-    "Setup/Daily Notes/Using Daily Notes.md",
     "Settings/Periodic Notes settings.md",
+    "Settings/attachments/Screenshot 2024-01-14 at 18.28.29.png",
+    "Settings/attachments/Screenshot 2024-01-14 at 18.28.05.png",
+    "Settings/attachments/Screenshot 2024-01-14 at 18.27.26.png",
+    "Setup/Daily Notes/Using Daily Notes.md",
     "Settings/attachments/Screenshot 2024-01-14 at 18.19.30.png",
     "Settings/attachments/Screenshot 2024-01-14 at 18.07.14.png",
     "Plugins/Plugins I like to use.md",
@@ -227,11 +230,8 @@
     "Temp/attachments",
     "Temp",
     "Settings/attachments/Screenshot 2024-01-13 at 12.14.11.png",
-    "Setup/Daily Notes/attachments/Screenshot 2024-01-13 at 12.14.39.png",
-    "Setup/Daily Notes/attachments/Screenshot 2024-01-13 at 12.18.36.png",
     "Daily Notes/2024/01-January",
     "Daily Notes/2024",
-    "Templates/Daily Notes",
-    "Setup/Daily Notes/attachments/Screenshot 2024-01-09 at 16.19.12.png"
+    "Templates/Daily Notes"
   ]
 }

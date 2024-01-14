@@ -2,6 +2,7 @@
 tags:
   - guide/daily-notes
 ---
+UPDATE: See the [[Periodic Notes settings]] I use in conjunction with the Periodic Notes plugin to capture Daily, Weekly and Monthly notes inside of `/Journal` folder. 
 ## Setup
 * Enable the Daily notes Core plugin.
 

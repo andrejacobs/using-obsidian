@@ -2,7 +2,7 @@
 tags:
   - settings/periodic-notes
 ---
-
+**UPDATE:** I now store my daily, weekly, monthly etc. notes inside `/Journal` folder instead of `/Daily Notes`
 ## Weekly Notes
 
 * First create a template that will be used for new weekly notes. See my template source further down below.
@@ -17,6 +17,7 @@ tags:
 * Turn on monthly notes and give it the template to use.
 * The file format I use is: `YYYY/MM-MMMM` and the notes are stored inside my `Daily Notes` folder.
 ![[Screenshot 2024-01-14 at 18.19.30.png]]
+
 ## Current templates I use
 
 ### Weekly
@@ -74,3 +75,11 @@ tags:
 1. ~
 
 ```
+
+---
+
+## Journal folder settings (see update above)
+
+![[Screenshot 2024-01-14 at 18.27.26.png]]
+![[Screenshot 2024-01-14 at 18.28.05.png]]
+![[Screenshot 2024-01-14 at 18.28.29.png]]
